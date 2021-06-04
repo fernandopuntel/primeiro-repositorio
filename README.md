@@ -22,6 +22,13 @@ Tabela de conteúdos
 <!--te-->
 
 
+### Features
+
+- [x] Leituras dado servidor
+- [x] Tratamento dados
+- [ ] Criação do arquivo csv.
+
+
 **Texto em negrito**
 
 *Texto em itálico*
