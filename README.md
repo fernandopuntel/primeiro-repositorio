@@ -1,5 +1,9 @@
 # Primeiro repositorio
 
 
-Alterações feitas no github
-Nova funcionalidade
+## Introdução
+
+### Objetivos
+
+- Desenvolver uma aplicação
+- Testar na cloud
