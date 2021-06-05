@@ -5,6 +5,8 @@
   <img alt="Logo do repositório incluindo o nome da disciplina, logo da AMF e o semestre 2021/1" src="capaGit.png" width="650px">
 </h1>
 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/fernandopuntel/primeiro-repositorio)
+
 Tabela de conteúdos
 =================
 <!--ts-->
