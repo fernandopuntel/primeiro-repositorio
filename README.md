@@ -38,6 +38,7 @@ Depois de baixar o arquivo principal, é preciso:
 $ ./ script.sh
 ```
 
+Você encontrar o script na pasta [script1/novo/script.sh](https://www.github.com)
 
 
 **Texto em negrito**
